@@ -12,3 +12,6 @@ C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.AssemblyInfo.cs
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.dll
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.pdb
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.API.dll
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.API.pdb
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.csproj.CopyComplete

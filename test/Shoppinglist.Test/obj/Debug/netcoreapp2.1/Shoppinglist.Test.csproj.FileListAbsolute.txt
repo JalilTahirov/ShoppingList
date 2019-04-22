@@ -1,0 +1,4 @@
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.1\Shoppinglist.Test.csprojAssemblyReference.cache
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.1\Shoppinglist.Test.csproj.CoreCompileInputs.cache
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.1\Shoppinglist.Test.AssemblyInfoInputs.cache
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.1\Shoppinglist.Test.AssemblyInfo.cs

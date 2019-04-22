@@ -11,4 +11,3 @@ C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\D
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.RazorTargetAssemblyInfo.cache
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.dll
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.pdb
-C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.csprojAssemblyReference.cache
