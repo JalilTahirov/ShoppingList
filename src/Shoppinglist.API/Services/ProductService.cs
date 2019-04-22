@@ -87,6 +87,24 @@ namespace Shoppinglist.API.Services
             }
         }
 
+        public IEnumerable<Product> List()
+        {
+            throw new NotImplementedException();
+        }
 
+        public ProductResponse Save(Product product)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ProductResponse Update(int id, Product product)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ProductResponse Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
