@@ -15,3 +15,9 @@ C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.API.dll
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.API.pdb
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.csproj.CopyComplete
+C:\Users\jalil.tahirov\jtdev\personal\ShoppingList\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.csprojAssemblyReference.cache
+C:\Users\jalil.tahirov\jtdev\personal\ShoppingList\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.csproj.CoreCompileInputs.cache
+C:\Users\jalil.tahirov\jtdev\personal\ShoppingList\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.AssemblyInfoInputs.cache
+C:\Users\jalil.tahirov\jtdev\personal\ShoppingList\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.AssemblyInfo.cs
+C:\Users\jalil.tahirov\jtdev\personal\ShoppingList\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.dll
+C:\Users\jalil.tahirov\jtdev\personal\ShoppingList\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.pdb

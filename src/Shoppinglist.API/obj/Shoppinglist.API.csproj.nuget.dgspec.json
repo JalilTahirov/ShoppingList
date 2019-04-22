@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {}
+    "C:\\Users\\jalil.tahirov\\jtdev\\personal\\ShoppingList\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {
+    "C:\\Users\\jalil.tahirov\\jtdev\\personal\\ShoppingList\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
+        "projectUniqueName": "C:\\Users\\jalil.tahirov\\jtdev\\personal\\ShoppingList\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
         "projectName": "Shoppinglist.API",
-        "projectPath": "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
-        "packagesPath": "C:\\Users\\Jalil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\obj\\",
+        "projectPath": "C:\\Users\\jalil.tahirov\\jtdev\\personal\\ShoppingList\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
+        "packagesPath": "C:\\Users\\jalil.tahirov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jalil.tahirov\\jtdev\\personal\\ShoppingList\\src\\Shoppinglist.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jalil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jalil.tahirov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jalil.tahirov\\Desktop\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
