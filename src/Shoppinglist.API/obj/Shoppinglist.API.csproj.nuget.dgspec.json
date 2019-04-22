@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {}
+    "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {
+    "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
+        "projectUniqueName": "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
         "projectName": "Shoppinglist.API",
-        "projectPath": "C:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
+        "projectPath": "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\Shoppinglist.API.csproj",
         "packagesPath": "C:\\Users\\Jalil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\obj\\",
+        "outputPath": "c:\\Users\\Jalil\\Documents\\Interview\\SuperMarketProject\\src\\Shoppinglist.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

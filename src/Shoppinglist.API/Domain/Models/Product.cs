@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Shoppinglist.API.Domain.Models
 {
     public class Product
@@ -5,9 +7,6 @@ namespace Shoppinglist.API.Domain.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public short QuantityInPackage { get; set; }
-        public EUnitOfMeasurement UnitOfMeasurement { get; set; }
-
-        public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public EUnitOfMeasurement UnitOfMeasurement { get; set; }         
     }
 }

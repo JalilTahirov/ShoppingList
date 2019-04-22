@@ -1,0 +1,14 @@
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.Test.deps.json
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.Test.runtimeconfig.json
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.Test.runtimeconfig.dev.json
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.Test.dll
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\bin\Debug\netcoreapp2.2\Shoppinglist.Test.pdb
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.csprojAssemblyReference.cache
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.csproj.CoreCompileInputs.cache
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.AssemblyInfoInputs.cache
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.AssemblyInfo.cs
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.dll
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\test\Shoppinglist.Test\obj\Debug\netcoreapp2.2\Shoppinglist.Test.pdb

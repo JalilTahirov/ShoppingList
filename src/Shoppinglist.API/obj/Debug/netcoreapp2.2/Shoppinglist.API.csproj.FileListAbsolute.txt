@@ -3,7 +3,6 @@ C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\bin\D
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\bin\Debug\netcoreapp2.2\Shoppinglist.API.runtimeconfig.dev.json
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\bin\Debug\netcoreapp2.2\Shoppinglist.API.dll
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\bin\Debug\netcoreapp2.2\Shoppinglist.API.pdb
-C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.csprojAssemblyReference.cache
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.csproj.CoreCompileInputs.cache
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.RazorAssemblyInfo.cache
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\D
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.RazorTargetAssemblyInfo.cache
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.dll
 C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.pdb
+C:\Users\Jalil\Documents\Interview\SuperMarketProject\src\Shoppinglist.API\obj\Debug\netcoreapp2.2\Shoppinglist.API.csprojAssemblyReference.cache

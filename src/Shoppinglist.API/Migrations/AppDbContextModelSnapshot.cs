@@ -18,42 +18,15 @@ namespace Shoppinglist.API.Migrations
                 .HasAnnotation("ProductVersion", "2.2.4-servicing-10062")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
-            modelBuilder.Entity("Shoppinglist.API.Domain.Models.Category", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasMaxLength(30);
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Categories");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 100,
-                            Name = "Fruits and Vegetables"
-                        },
-                        new
-                        {
-                            Id = 101,
-                            Name = "Dairy"
-                        });
-                });
-
             modelBuilder.Entity("Shoppinglist.API.Domain.Models.Product", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<int>("CategoryId");
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("Oracle:ValueGenerationStrategy", OracleValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(30);
+                        .HasMaxLength(50);
 
                     b.Property<short>("QuantityInPackage");
 
@@ -61,36 +34,23 @@ namespace Shoppinglist.API.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CategoryId");
-
                     b.ToTable("Products");
 
                     b.HasData(
                         new
                         {
                             Id = 100,
-                            CategoryId = 100,
-                            Name = "Apple",
-                            QuantityInPackage = (short)1,
-                            UnitOfMeasurement = (byte)1
+                            Name = "Fruits and Vegetables",
+                            QuantityInPackage = (short)0,
+                            UnitOfMeasurement = (byte)0
                         },
                         new
                         {
                             Id = 101,
-                            CategoryId = 101,
-                            Name = "Milk",
-                            QuantityInPackage = (short)2,
-                            UnitOfMeasurement = (byte)5
+                            Name = "Dairy",
+                            QuantityInPackage = (short)0,
+                            UnitOfMeasurement = (byte)0
                         });
-                });
-
-            modelBuilder.Entity("Shoppinglist.API.Domain.Models.Product", b =>
-                {
-                    b.HasOne("Shoppinglist.API.Domain.Models.Category", "Category")
-                        .WithMany("Products")
-                        .HasForeignKey("CategoryId")
-                        .HasConstraintName("FK_Pro_Cat_CatId")
-                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }

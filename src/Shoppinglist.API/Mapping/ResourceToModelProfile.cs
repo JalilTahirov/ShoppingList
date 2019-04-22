@@ -8,7 +8,7 @@ namespace Shoppinglist.API.Mapping
     {
         public ResourceToModelProfile()
         {
-            CreateMap<SaveCategoryResource, Category>();
+            CreateMap<SaveProductResource, Product>();
         }
     }
 }
