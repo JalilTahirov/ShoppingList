@@ -8,9 +8,9 @@ namespace Shoppinglist.API.Domain.Services
 {
     public interface IProductService
     {
-        Task<IEnumerable<Product>> ListAsync();
-        Task<ProductResponse> SaveAsync(Product product);
-        Task<ProductResponse> UpdateAsync(int id, Product product);
-        Task<ProductResponse> DeleteAsync(int id);
+        IEnumerable<Product> List();
+        ProductResponse Save(Product product);
+        ProductResponse Update(int id, Product product);
+        ProductResponse Delete(int id);
     }
 }
